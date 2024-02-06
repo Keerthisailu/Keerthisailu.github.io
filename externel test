@@ -11,6 +11,6 @@
 	</p>
 	<img src="image.jpg"width="70%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1PnVor36_40?si=5h4-nrz7pnIOshbN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-   <a href="image.jpg">click here</a></body>
+   click <a href="image.jpg">here</a></body>
 </html>
           
